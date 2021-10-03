@@ -68,4 +68,4 @@ client.on('message', async function(message) {
 
 })//
 
-client.login("ODgwMDMwNjg2MTI2NDA3NzEw.YSYWcQ.87BxdgCzUvYnYQOjytcspzkLAg8");
+client.login("TOKEN");
